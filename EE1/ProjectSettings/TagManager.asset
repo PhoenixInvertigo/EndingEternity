@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Entities
+  - Projectiles
+  - Environment
+  - Top Tiles
+  - Bottom Tiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BotTiles
+    uniqueID: 3840844843
+    locked: 0
+  - name: MidTiles
+    uniqueID: 3378528381
+    locked: 0
+  - name: Entities
+    uniqueID: 568193417
+    locked: 0
+  - name: TopTiles
+    uniqueID: 916779447
+    locked: 0
+  - name: BotUI
+    uniqueID: 3598876855
+    locked: 0
+  - name: MidUI
+    uniqueID: 1853757783
+    locked: 0
+  - name: TopUI
+    uniqueID: 637004939
+    locked: 0
